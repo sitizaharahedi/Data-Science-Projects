@@ -1,4 +1,4 @@
-# 📊 Data Analysis Portfolio Projects
+# 📊 Data Science Portfolio Projects
 
 This repository showcases end-to-end data analysis projects completed in Python using Jupyter/Colab notebooks. Each project involves real-world datasets and demonstrates key data skills including data cleaning, exploration, visualization, feature engineering, and business insight generation — aligned with Data Analyst and Data Scientist roles.
 
